@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+    <string name="i_am_thinking_of_a_number_between_1_and_20">I am thinking of a number between 1 and 20</string>
+    <string name="can_you_guess_correctly">Can you guess correctly?</string>
+    <string name="button_guess_label">Guess</string>
+</resources>
